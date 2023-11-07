@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 A learning project to practice React and making requests with third-party APIs. The end goal is a restaurant recommendation website that allows users to search for local businesses based on their location and keywords. Using a tech stack that includes HTML, CSS, JavaScript, React, and the Yelp API, the end application replicates the core functionality of Yelp.
 
-
+https://github.com/bxzr1/ravenous/assets/19394780/4a325a6b-c3e1-4b6d-b1f4-60f539445b1e
 
 ## To Run This Project
 
